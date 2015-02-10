@@ -1,7 +1,7 @@
 # config valid only for current version of Capistrano
 
 set :application, 'see'
-set :repo_url, 'git@github.com:bertifamily/see.git'
+set :repo_url, 'git@github.com:bertifamily/sei.git'
 set :deploy_to, '/opt/www/sei'
 set :user, 'deploy'
 set :linked_dirs, %w{log tmp/pids tmp/cache tmp/sockets}
